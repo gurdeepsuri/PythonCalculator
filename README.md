@@ -1,2 +1,2 @@
 # PythonCalculator
-A simple Python Calculator Program
+This is a Simple Python Calculator Program.
